@@ -1,7 +1,7 @@
 # homework6
 
-mkdir build
-cd build
-cmake ..
-cmake --build .
-./container 
+mkdir build \n
+cd build \n
+cmake .. \n
+cmake --build . \n
+./container \n
